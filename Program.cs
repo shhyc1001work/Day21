@@ -7,8 +7,7 @@ namespace Day21
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("이힣");
-            Console.WriteLine("이힣");
+            Console.WriteLine("할말이 없음");
 
         }
     }
